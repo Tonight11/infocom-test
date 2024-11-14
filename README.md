@@ -10,7 +10,7 @@ tech: Nuxt3, Ts, Pinia, Eslint, Prettier, UiThing/Shadcn
 
 ## Getting Started
 
-Clone the repo
+Clone the repo [here](https://infocom-test-site.netlify.app/)
 
 Install the dependencies
 
